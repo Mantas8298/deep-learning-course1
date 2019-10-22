@@ -2,7 +2,7 @@
 my notes from the deep learning course
 # Sample Story
 
-## Overview
+## Pergalė
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
